@@ -43,6 +43,4 @@
 <img width="1253" height="707" alt="普罗米修斯可视化" src="https://github.com/user-attachments/assets/f90226ef-fd78-443e-b5e5-005e7267e669" />
 
 
-## 📂 目录说明
-- `Scripts/`: 包含自动化部署脚本。
-- `Configs/`: 包含 Nginx 和 Prometheus 的核心配置片段。
+
